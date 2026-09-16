@@ -1,0 +1,3 @@
+[functions.kma-webhook]
+verify_jwt = false
+allowed_headers = ["Content-Type", "Authorization", "X-Client-Info", "Apikey", "X-API-Key"]
